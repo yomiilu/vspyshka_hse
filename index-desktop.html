@@ -396,7 +396,7 @@ class Component extends DCLogic {
     page:'home', articleId:'a1', interviewId:'klimenko', expanded:false,
     lang: (typeof localStorage!=='undefined' && localStorage.getItem('vsp_lang')) || 'ru'
   };
-  ourTg = '#';
+  ourTg = 'https://t.me/vspyshka_media';
 
   go(page, patch){ this.setState(Object.assign({page, expanded:false}, patch||{})); if(typeof window!=='undefined') window.scrollTo({top:0,behavior:'auto'}); }
   setLang(lang){ if(typeof localStorage!=='undefined') localStorage.setItem('vsp_lang', lang); this.setState({lang}); }
