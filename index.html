@@ -52,7 +52,7 @@
 <script>
 (function() {
   // Определяем, мобильное ли устройство
-  const isMobile = window.innerWidth < 820;
+  const isMobile = window.innerWidth < 960;
   
   // Выбираем нужный файл
   const pageFile = isMobile ? 'index-mobile.html' : 'index-desktop.html';
@@ -72,7 +72,7 @@
   window.addEventListener('resize', function() {
     clearTimeout(timeoutId);
     timeoutId = setTimeout(function() {
-      const nowMobile = window.innerWidth < 820;
+      const nowMobile = window.innerWidth < 960;
       // Если тип изменился — перезагружаем страницу
       if (nowMobile !== isMobile) {
         window.location.reload();
