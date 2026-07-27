@@ -125,7 +125,7 @@ window.VSP_CONTENT = {
         ]},
     ],
     en: [
-      {id:'a1', slot:'art-a1', src:'assets/ph-tishina.jpg', tag:'REFLECTION', title:'Silence as a new resource of the creative industries',
+      {id:'a1', slot:'art-a1', src:'assets/ph-tishina.png', tag:'REFLECTION', title:'Silence as a new resource of the creative industries',
         excerpt:'Why a pause becomes more valuable than new content and how it changes the work of those who create impressions.',
         pull:'Meaning is born where we stop rushing.',
         body:[
