@@ -125,7 +125,7 @@ window.VSP_CONTENT = {
         ]},
     ],
     en: [
-      {id:'a1', slot:'art-a1', src:'assets/ph-tishina.png', tag:'REFLECTION', title:'Silence as a new resource of the creative industries',
+      {id:'a1', slot:'art-a1', src:'assets/ph-tishina.jpg', tag:'REFLECTION', title:'Silence as a new resource of the creative industries',
         excerpt:'Why a pause becomes more valuable than new content and how it changes the work of those who create impressions.',
         pull:'Meaning is born where we stop rushing.',
         body:[
@@ -133,7 +133,7 @@ window.VSP_CONTENT = {
           'Silence here isn’t about the absence of action, but about the quality of attention. It’s the ability to stop, hear the context and ask a question that truly matters. Strong projects most often grow out of such pauses.',
           'We increasingly see teams deliberately slowing down: cutting the number of releases, returning to audience research, letting an idea mature. It’s not a luxury but a working strategy — and, it seems, the new norm.',
         ]},
-      {id:'a2', slot:'art-a2', src:'assets/ph-process.png', tag:'PROCESS', title:'How to read process: why “how” matters more than “what”',
+      {id:'a2', slot:'art-a2', src:'assets/ph-result.png', tag:'PROCESS', title:'How to read process: why “how” matters more than “what”',
         excerpt:'We unpack what hides behind the finished result and why process is the most interesting thing in any profession.',
         pull:'The result is the tip. The real story is in the decisions along the way.',
         body:[
