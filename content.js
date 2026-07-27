@@ -102,53 +102,59 @@ window.VSP_CONTENT = {
       {id:'a1', slot:'art-a1', src:'assets/ph-tishina.jpg', tag:'РЕФЛЕКСИЯ', title:'Тишина как новый ресурс креативных индустрий',
         excerpt:'Почему пауза становится ценнее нового контента и как это меняет работу тех, кто создаёт впечатления.',
         pull:'Смысл рождается там, где мы перестаём торопиться.',
-        body:[
-          'Креативные индустрии долго измеряли себя скоростью: чем больше выпущено, тем заметнее результат. Но у бесконечного потока есть предел — внимание. Когда его не хватает, выигрывает не тот, кто громче, а тот, кто точнее.',
-          'Тишина здесь — не про отсутствие действия, а про качество внимания. Это способность остановиться, услышать контекст и задать вопрос, который действительно важен. Именно из таких пауз чаще всего вырастают сильные проекты.',
-          'Мы всё чаще видим, как команды сознательно замедляются: сокращают количество релизов, возвращаются к исследованию аудитории, дают идее вызреть. Это не роскошь, а рабочая стратегия — и, кажется, новая норма.',
-        ]},
+        // body:[
+        //   'Креативные индустрии долго измеряли себя скоростью: чем больше выпущено, тем заметнее результат. Но у бесконечного потока есть предел — внимание. Когда его не хватает, выигрывает не тот, кто громче, а тот, кто точнее.',
+        //   'Тишина здесь — не про отсутствие действия, а про качество внимания. Это способность остановиться, услышать контекст и задать вопрос, который действительно важен. Именно из таких пауз чаще всего вырастают сильные проекты.',
+        //   'Мы всё чаще видим, как команды сознательно замедляются: сокращают количество релизов, возвращаются к исследованию аудитории, дают идее вызреть. Это не роскошь, а рабочая стратегия — и, кажется, новая норма.',
+        // ]
+      },
       {id:'a2', slot:'art-a2', src:'assets/ph-result.png', tag:'ПРОЦЕСС', title:'Как читать процесс: почему важнее «как», а не «что»',
         excerpt:'Разбираем, что скрывается за готовым результатом и почему процесс — самое интересное в любой профессии.',
         pull:'Результат — это верхушка. Настоящая история — в решениях по пути.',
-        body:[
-          'Готовый проект всегда выглядит цельным и неизбежным. Но за ним стоят десятки развилок, где всё могло сложиться иначе. Эти развилки и есть профессия.',
-          'Когда мы спрашиваем «как ты это сделал», человек начинает рассказывать о сомнениях, ограничениях и случайностях. Именно там видно мышление — а не в финальной картинке.',
-          'Поэтому «Вспышка» смотрит на процесс. Он честнее результата и полезнее для того, кто только ищет свой путь в индустрии.',
-        ]},
+        // body:[
+        //   'Готовый проект всегда выглядит цельным и неизбежным. Но за ним стоят десятки развилок, где всё могло сложиться иначе. Эти развилки и есть профессия.',
+        //   'Когда мы спрашиваем «как ты это сделал», человек начинает рассказывать о сомнениях, ограничениях и случайностях. Именно там видно мышление — а не в финальной картинке.',
+        //   'Поэтому «Вспышка» смотрит на процесс. Он честнее результата и полезнее для того, кто только ищет свой путь в индустрии.',
+        // ]
+      },
       {id:'a3', slot:'art-a3', src:'assets/ph-city.png', tag:'ГОРОД', title:'Города как сцена: событие вместо контента',
         excerpt:'Как креативные форматы превращают пространство в опыт, который остаётся с человеком надолго.',
         pull:'Мы запоминаем не то, что увидели, а то, что прожили.',
-        body:[
-          'Город всё чаще становится площадкой для впечатлений: поп-апы, маршруты, гастрономические сеты, временные пространства. Всё это — язык, на котором индустрии говорят с человеком.',
-          'Такое событие не потребляют, как ленту. В нём участвуют. И именно участие превращает разовый визит в личную историю, о которой хочется рассказать.',
-          'Для авторов это вызов: спроектировать не картинку, а переживание. Но именно здесь и рождается настоящая ценность.',
-        ]},
+        // body:[
+        //   'Город всё чаще становится площадкой для впечатлений: поп-апы, маршруты, гастрономические сеты, временные пространства. Всё это — язык, на котором индустрии говорят с человеком.',
+        //   'Такое событие не потребляют, как ленту. В нём участвуют. И именно участие превращает разовый визит в личную историю, о которой хочется рассказать.',
+        //   'Для авторов это вызов: спроектировать не картинку, а переживание. Но именно здесь и рождается настоящая ценность.',
+        // ]
+      },
     ],
     en: [
       {id:'a1', slot:'art-a1', src:'assets/ph-tishina.jpg', tag:'REFLECTION', title:'Silence as a new resource of the creative industries',
         excerpt:'Why a pause becomes more valuable than new content and how it changes the work of those who create impressions.',
         pull:'Meaning is born where we stop rushing.',
-        body:[
-          'The creative industries long measured themselves by speed: the more you release, the more visible the result. But the endless stream has a limit — attention. When there isn’t enough of it, the winner isn’t the loudest but the most precise.',
-          'Silence here isn’t about the absence of action, but about the quality of attention. It’s the ability to stop, hear the context and ask a question that truly matters. Strong projects most often grow out of such pauses.',
-          'We increasingly see teams deliberately slowing down: cutting the number of releases, returning to audience research, letting an idea mature. It’s not a luxury but a working strategy — and, it seems, the new norm.',
-        ]},
+        // body:[
+        //   'The creative industries long measured themselves by speed: the more you release, the more visible the result. But the endless stream has a limit — attention. When there isn’t enough of it, the winner isn’t the loudest but the most precise.',
+        //   'Silence here isn’t about the absence of action, but about the quality of attention. It’s the ability to stop, hear the context and ask a question that truly matters. Strong projects most often grow out of such pauses.',
+        //   'We increasingly see teams deliberately slowing down: cutting the number of releases, returning to audience research, letting an idea mature. It’s not a luxury but a working strategy — and, it seems, the new norm.',
+        // ]
+      },
       {id:'a2', slot:'art-a2', src:'assets/ph-result.png', tag:'PROCESS', title:'How to read process: why “how” matters more than “what”',
         excerpt:'We unpack what hides behind the finished result and why process is the most interesting thing in any profession.',
         pull:'The result is the tip. The real story is in the decisions along the way.',
-        body:[
-          'A finished project always looks whole and inevitable. But behind it stand dozens of forks where everything could have turned out differently. Those forks are the profession itself.',
-          'When we ask “how did you do this”, a person starts talking about doubts, constraints and accidents. That’s where thinking shows — not in the final picture.',
-          'That’s why Vspyshka looks at the process. It’s more honest than the result and more useful for someone just looking for their path in the industry.',
-        ]},
+        // body:[
+        //   'A finished project always looks whole and inevitable. But behind it stand dozens of forks where everything could have turned out differently. Those forks are the profession itself.',
+        //   'When we ask “how did you do this”, a person starts talking about doubts, constraints and accidents. That’s where thinking shows — not in the final picture.',
+        //   'That’s why Vspyshka looks at the process. It’s more honest than the result and more useful for someone just looking for their path in the industry.',
+        // ]
+      },
       {id:'a3', slot:'art-a3', src:'assets/ph-city.png', tag:'CITY', title:'Cities as a stage: an event instead of content',
         excerpt:'How creative formats turn space into an experience that stays with a person for a long time.',
         pull:'We remember not what we saw, but what we lived through.',
-        body:[
-          'The city increasingly becomes a venue for impressions: pop-ups, routes, gastronomic sets, temporary spaces. All of it is a language the industries use to speak with a person.',
-          'Such an event isn’t consumed like a feed. You take part in it. And it’s participation that turns a one-off visit into a personal story you want to tell.',
-          'For creators it’s a challenge: to design not a picture but an experience. But that’s exactly where real value is born.',
-        ]},
+        // body:[
+        //   'The city increasingly becomes a venue for impressions: pop-ups, routes, gastronomic sets, temporary spaces. All of it is a language the industries use to speak with a person.',
+        //   'Such an event isn’t consumed like a feed. You take part in it. And it’s participation that turns a one-off visit into a personal story you want to tell.',
+        //   'For creators it’s a challenge: to design not a picture but an experience. But that’s exactly where real value is born.',
+        // ]
+      },
     ]
   },
 
