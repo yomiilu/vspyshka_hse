@@ -402,7 +402,7 @@ class Component extends DCLogic {
   setLang(lang){ if(typeof localStorage!=='undefined') localStorage.setItem('vsp_lang', lang); this.setState({lang}); }
 
   componentDidMount(){
-    this._scale = ()=>{ const w=window.innerWidth; document.documentElement.style.zoom = w>768 ? String(w/1440) : '1'; };
+    this._scale = ()=>{ const w=window.innerWidth; document.documentElement.style.zoom = w>820 ? String(w/1440) : '1'; };
     this._scale(); window.addEventListener('resize', this._scale);
     if(!window.VSP_CONTENT){ this._ci=setInterval(()=>{ if(window.VSP_CONTENT){ clearInterval(this._ci); this.forceUpdate(); this._reveal(); } }, 40); }
     this._reveal();

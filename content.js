@@ -107,7 +107,7 @@ window.VSP_CONTENT = {
           'Тишина здесь — не про отсутствие действия, а про качество внимания. Это способность остановиться, услышать контекст и задать вопрос, который действительно важен. Именно из таких пауз чаще всего вырастают сильные проекты.',
           'Мы всё чаще видим, как команды сознательно замедляются: сокращают количество релизов, возвращаются к исследованию аудитории, дают идее вызреть. Это не роскошь, а рабочая стратегия — и, кажется, новая норма.',
         ]},
-      {id:'a2', slot:'art-a2', tag:'ПРОЦЕСС', title:'Как читать процесс: почему важнее «как», а не «что»',
+      {id:'a2', slot:'art-a2', src:'assets/ph-result.png', tag:'ПРОЦЕСС', title:'Как читать процесс: почему важнее «как», а не «что»',
         excerpt:'Разбираем, что скрывается за готовым результатом и почему процесс — самое интересное в любой профессии.',
         pull:'Результат — это верхушка. Настоящая история — в решениях по пути.',
         body:[
@@ -115,7 +115,7 @@ window.VSP_CONTENT = {
           'Когда мы спрашиваем «как ты это сделал», человек начинает рассказывать о сомнениях, ограничениях и случайностях. Именно там видно мышление — а не в финальной картинке.',
           'Поэтому «Вспышка» смотрит на процесс. Он честнее результата и полезнее для того, кто только ищет свой путь в индустрии.',
         ]},
-      {id:'a3', slot:'art-a3', tag:'ГОРОД', title:'Города как сцена: событие вместо контента',
+      {id:'a3', slot:'art-a3', src:'assets/ph-city.png', tag:'ГОРОД', title:'Города как сцена: событие вместо контента',
         excerpt:'Как креативные форматы превращают пространство в опыт, который остаётся с человеком надолго.',
         pull:'Мы запоминаем не то, что увидели, а то, что прожили.',
         body:[
@@ -133,7 +133,7 @@ window.VSP_CONTENT = {
           'Silence here isn’t about the absence of action, but about the quality of attention. It’s the ability to stop, hear the context and ask a question that truly matters. Strong projects most often grow out of such pauses.',
           'We increasingly see teams deliberately slowing down: cutting the number of releases, returning to audience research, letting an idea mature. It’s not a luxury but a working strategy — and, it seems, the new norm.',
         ]},
-      {id:'a2', slot:'art-a2', tag:'PROCESS', title:'How to read process: why “how” matters more than “what”',
+      {id:'a2', slot:'art-a2', src:'assets/ph-process.png', tag:'PROCESS', title:'How to read process: why “how” matters more than “what”',
         excerpt:'We unpack what hides behind the finished result and why process is the most interesting thing in any profession.',
         pull:'The result is the tip. The real story is in the decisions along the way.',
         body:[
@@ -141,7 +141,7 @@ window.VSP_CONTENT = {
           'When we ask “how did you do this”, a person starts talking about doubts, constraints and accidents. That’s where thinking shows — not in the final picture.',
           'That’s why Vspyshka looks at the process. It’s more honest than the result and more useful for someone just looking for their path in the industry.',
         ]},
-      {id:'a3', slot:'art-a3', tag:'CITY', title:'Cities as a stage: an event instead of content',
+      {id:'a3', slot:'art-a3', src:'assets/ph-city.png', tag:'CITY', title:'Cities as a stage: an event instead of content',
         excerpt:'How creative formats turn space into an experience that stays with a person for a long time.',
         pull:'We remember not what we saw, but what we lived through.',
         body:[
