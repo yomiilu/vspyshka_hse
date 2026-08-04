@@ -360,6 +360,14 @@ a:hover{color:#E8461E}
         <div style="height:60px;margin-top:-40px;position:relative;z-index:3;background:linear-gradient(to bottom,rgba(251,244,228,0),#FBF4E4);display:{{ fadeDisplay }}"></div>
         <button onClick="{{ toggleExpand }}" style="cursor:pointer;font-family:'Montserrat';font-size:14px;letter-spacing:.16em;font-weight:600;color:#12100E;background:#F6A623;border:none;padding:16px 42px;border-radius:999px;transition:transform .2s,box-shadow .3s;box-shadow:0 14px 30px -12px rgba(224,140,60,.7)" style-hover="transform:translateY(-2px)">{{ expandLabel }}</button>
 
+        <div style="margin-top:46px;display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap">
+          <span style="font-size:14px;color:#6a5a52">{{ t.interviewerLabel }} {{ cur.interviewerName }}</span>
+          <a href="{{ cur.interviewerTg }}" target="_blank" style="display:inline-flex;align-items:center;gap:7px;font-size:13px;padding:8px 15px;border-radius:12px;background:#FFFDF6;border:1px solid rgba(33,26,23,.16);color:#12100E;transition:border-color .2s,color .2s" style-hover="border-color:#ED179A;color:#ED179A">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M21.94 4.5 18.9 19.2c-.23 1.02-.84 1.27-1.7.79l-4.7-3.46-2.27 2.18c-.25.25-.46.46-.94.46l.33-4.78 8.7-7.86c.38-.34-.08-.53-.59-.19L6.98 13.2l-4.63-1.45c-1.01-.31-1.02-1.01.21-1.5l18.1-6.98c.84-.31 1.58.2 1.28 1.23Z"></path></svg>
+            {{ cur.interviewerHandle }}
+          </a>
+        </div>
+
         <div data-reveal="" style="margin-top:60px;padding:40px 44px;border-radius:24px;background:#1E1206;color:#FBF4E4;display:flex;align-items:center;gap:24px;text-align:left;opacity:0;transform:translateY(40px);transition:1s">
           <img src="assets/star-hand.png" alt="" style="width:62px;height:62px;object-fit:contain;flex-shrink:0">
           <div style="flex:1">

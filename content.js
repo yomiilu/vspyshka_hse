@@ -26,7 +26,7 @@ window.VSP_CONTENT = {
       interviewsKicker:'интервью', interviewsTitle:'Голоса индустрии',
       interviewsLead:'Разговоры с теми, кто создаёт креативные индустрии. Читатель видит вокруг себя равных.',
       soon:'Скоро здесь появятся новые интервью.',
-      heroBlog:'Блог героя', topQuotes:'топ цитат',
+      heroBlog:'Блог героя', topQuotes:'топ цитат', interviewerLabel:'Интервьюер:',
       likedTitle:'Понравилось интервью?', likedText:'Обсуждаем материал у нас в Telegram — заходите.',
       ourTgLabel:'Наш Telegram',
       expandExpand:'РАЗВЕРНУТЬ ИНТЕРВЬЮ ЦЕЛИКОМ', expandCollapse:'СВЕРНУТЬ ИНТЕРВЬЮ',
@@ -61,7 +61,7 @@ window.VSP_CONTENT = {
       interviewsKicker:'interviews', interviewsTitle:'Voices of the industry',
       interviewsLead:'Conversations with those who create the creative industries. The reader sees equals all around.',
       soon:'New interviews are coming soon.',
-      heroBlog:'Guest’s blog', topQuotes:'top quotes',
+      heroBlog:'Guest’s blog', topQuotes:'top quotes', interviewerLabel:'Interviewer:',
       likedTitle:'Enjoyed the interview?', likedText:'We discuss the material in our Telegram — come join us.',
       ourTgLabel:'Our Telegram',
       expandExpand:'EXPAND THE FULL INTERVIEW', expandCollapse:'COLLAPSE INTERVIEW',
@@ -197,6 +197,7 @@ window.VSP_CONTENT = {
           {q:'— Ты говорил про спонтанность. Как она отражается на работе?', a:'— Спонтанность — это какая-то своя мудрость. Бывает, делаешь творческий проект: три дня пашешь, ничего не зарабатываешь… А потом вдруг — бам! — прилетает проект, где зарабатываешь в три раза больше. Вот она, жизнь!'},
         ],
         outro:'Гастрономия в интерпретации Алексея — это больше, чем профессия. Это способ исследовать мир и создавать впечатления, которые остаются с человеком надолго.',
+        interviewerName:'Аревик Емишян', interviewerTg:'https://t.me/arevikemishyan', interviewerHandle:'@arevikemishyan',
         gallery:[
           {id:'iv-klimenko-2', src:'assets/ph-chef2.jpg'},
           {id:'iv-klimenko-3', src:'assets/ph-chef3.jpg'},
@@ -211,8 +212,8 @@ window.VSP_CONTENT = {
         heroTg:'https://t.me/VID_almanac',
         tgLabel:'Телеграм «ВИДа»',
         intro:[
-          'Визуальные исследования кино редко выходят за пределы университетских курсов и портфолио. «ВИД» — самиздат-альманах, который собирает их в объект: бумажный, тактильный, с авторской типографикой, где тексту не хватает места на листе и он вынужден перетекать дальше.',
-          'Анастасия Шабунаева придумала журнал за две недели до начала четвёртого курса и защитила им диплом. В интервью — о вёрстке как наборе собственных правил, о цене максимализма и о том, почему бумага сейчас надёжнее ссылки.',
+          'Визуальные исследования кино редко выходят за пределы университетских курсов и портфолио. «ВИД» — самиздат-альманах, который собирает их в современный дизайнерский журнал, в котором типографика подчиняется особым правилам. Проект даёт студентам возможность проявить себя и опубликовать свои работы.',
+          'Анастасия Шабунаева придумала журнал как диплом, а после выпуска стала развивать его как полноценный проект. В интервью — о вёрстке как наборе собственных правил, о цене максимализма и о том, почему бумага сейчас надёжнее ссылки.',
         ],
         quotes:[
           'Важно именно делать, а не думать.',
@@ -288,6 +289,7 @@ window.VSP_CONTENT = {
            a:'— Я читала этот вопрос и правда не знаю, что сказать. Ну — держитесь, сил вам. Какие тут вообще могут быть советы: на каждом этапе будет очень много разных сложностей и проблем, ты постоянно будешь не знать, что и как делать. И ещё нужно учиться делегировать и доверять другим: пусть в каких-то моментах они не оправдывают ваших ожиданий, но сделать всё самостоятельно всё равно невозможно, как бы этого ни хотелось.'},
         ],
         outro:'Журнал в понимании Анастасии — не носитель текста, а способ смотреть: сначала визуал, потом слова. И, кажется, именно это возвращает бумаге смысл.',
+        interviewerName:'Елена Русанова', interviewerTg:'https://t.me/rusLen3', interviewerHandle:'@rusLen3',
         gallery:[
           {id:'iv-shabunaeva-2', src:'assets/vid-p2.jpg'},
           {id:'iv-shabunaeva-3', src:'assets/vid-p3.jpg'},
@@ -332,6 +334,7 @@ window.VSP_CONTENT = {
           {q:'— You mentioned spontaneity. How does it show up in your work?', a:'— Spontaneity is a kind of wisdom of its own. Sometimes you do a creative project: you grind for three days, earn nothing… And then suddenly — bam! — a project lands where you earn three times more. That’s life for you!'},
         ],
         outro:'Gastronomy as Alexey interprets it is more than a profession. It’s a way to explore the world and create impressions that stay with a person for a long time.',
+        interviewerName:'Arevik Yemishyan', interviewerTg:'https://t.me/arevikemishyan', interviewerHandle:'@arevikemishyan',
         gallery:[
           {id:'iv-klimenko-2', src:'assets/ph-chef2.jpg'},
           {id:'iv-klimenko-3', src:'assets/ph-chef3.jpg'},
@@ -346,8 +349,8 @@ window.VSP_CONTENT = {
         heroTg:'https://t.me/VID_almanac',
         tgLabel:'VID on Telegram',
         intro:[
-          'Visual research into cinema rarely travels beyond university courses and portfolios. VID is a self-published almanac that gathers it into an object: paper, tactile, with its own typography, where the text runs out of room on the page and has to spill over.',
-          'Anastasia Shabunaeva came up with the magazine two weeks before her final year began and graduated with it. In this interview — on layout as a set of self-imposed rules, on the price of maximalism, and on why paper is currently more reliable than a link.',
+          'Visual research into cinema rarely travels beyond university courses and portfolios. VID is a self-published almanac that gathers it into a contemporary design magazine, one where typography obeys rules of its own. The project even gives students a chance to prove themselves and publish their work.',
+          'Anastasia Shabunaeva came up with the magazine as her graduation project, and after finishing university began developing it as a project in its own right. In this interview — on layout as a set of self-imposed rules, on the price of maximalism, and on why paper is currently more reliable than a link.',
         ],
         quotes:[
           'What matters is doing, not thinking.',
@@ -423,6 +426,7 @@ window.VSP_CONTENT = {
            a:'— I read this question and genuinely don’t know what to say. Well — hang in there, good luck. What advice can there be: at every stage there will be a great many different difficulties and problems, you’ll constantly not know what to do or how. And you also need to learn to delegate and to trust other people: even if in some moments they don’t live up to your expectations, doing everything on your own is impossible anyway, however much you’d like to.'},
         ],
         outro:'A magazine, as Anastasia understands it, isn’t a carrier of text but a way of looking: first the visual, then the words. And that, it seems, is exactly what gives paper its meaning back.',
+        interviewerName:'Elena Rusanova', interviewerTg:'https://t.me/rusLen3', interviewerHandle:'@rusLen3',
         gallery:[
           {id:'iv-shabunaeva-2', src:'assets/vid-p2.jpg'},
           {id:'iv-shabunaeva-3', src:'assets/vid-p3.jpg'},
