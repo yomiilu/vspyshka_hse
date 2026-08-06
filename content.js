@@ -16,7 +16,7 @@ window.VSP_CONTENT = {
       benefitText:'Понимание индустрии через живой опыт без шаблонных историй успеха. Мы берём интервью у тех, кто «варится» в индустриях ежедневно.',
       valuesKicker:'ценности', valuesTitle:'Во что мы верим',
       featuredKicker:'Первое интервью',
-      featuredTitle:'Гастрономия как способ сторителлинга',
+      featuredTitle:'Знакомство с бренд-шефом',
       featuredDesc:'Алексей Клименко — бренд-шеф и сооснователь гастроагентства Référence à la vie. О том, как рождаются проекты, почему люди важнее бизнес-планов и что такое настоящий «референс жизни».',
       readInterview:'ЧИТАТЬ ИНТЕРВЬЮ →',
       creatorKicker:'автор проекта', creatorName:'Аревик Емишян',
@@ -51,7 +51,7 @@ window.VSP_CONTENT = {
       benefitText:'Understanding the industry through living experience, without template success stories. We interview those who are immersed in the industries every day.',
       valuesKicker:'values', valuesTitle:'What we believe in',
       featuredKicker:'First interview',
-      featuredTitle:'Gastronomy as a way of storytelling',
+      featuredTitle:'Meeting the brand chef',
       featuredDesc:'Alexey Klimenko — brand chef and co-founder of the gastro agency Référence à la vie. On how projects are born, why people matter more than business plans, and what a true “reference of life” is.',
       readInterview:'READ INTERVIEW →',
       creatorKicker:'project author', creatorName:'Arevik Yemishyan',
@@ -162,7 +162,7 @@ window.VSP_CONTENT = {
     ru: {
       klimenko: {
         id:'klimenko', slot:'iv-klimenko', src:'assets/ph-chef.jpg', tag:'ГАСТРОНОМИЯ', date:'26 июня 2026',
-        title:'Гастрономия как способ сторителлинга',
+        title:'Знакомство с бренд-шефом',
         name:'Алексей Клименко',
         role:'бренд-шеф, сооснователь гастроагентства Référence à la vie',
         hero:'О том, как рождаются гастрономические проекты, почему люди важнее бизнес-планов и что такое настоящий «референс жизни».',
@@ -205,7 +205,7 @@ window.VSP_CONTENT = {
       },
       shabunaeva: {
         id:'shabunaeva', slot:'iv-shabunaeva', src:'assets/vid-hero.jpg', tag:'ВИЗУАЛЬНЫЕ ИССЛЕДОВАНИЯ', date:'3 августа 2026',
-        title:'Журнал как способ смотреть кино',
+        title:'Диплом, который стал журналом',
         name:'Анастасия Шабунаева',
         role:'выпускница «Коммуникационного дизайна» НИУ ВШЭ в Санкт-Петербурге, создательница альманаха «ВИД»',
         hero:'О том, как дипломная работа стала авторским журналом о визуальных исследованиях кино, сколько стоит максимализм и почему бумагу нельзя удалить.',
@@ -299,7 +299,7 @@ window.VSP_CONTENT = {
     en: {
       klimenko: {
         id:'klimenko', slot:'iv-klimenko', src:'assets/ph-chef.jpg', tag:'GASTRONOMY', date:'June 26, 2026',
-        title:'Gastronomy as a way of storytelling',
+        title:'Meeting the brand chef',
         name:'Alexey Klimenko',
         role:'brand chef, co-founder of the gastro agency Référence à la vie',
         hero:'On how gastronomic projects are born, why people matter more than business plans, and what a true “reference of life” is.',
@@ -342,7 +342,7 @@ window.VSP_CONTENT = {
       },
       shabunaeva: {
         id:'shabunaeva', slot:'iv-shabunaeva', src:'assets/vid-hero.jpg', tag:'VISUAL RESEARCH', date:'August 3, 2026',
-        title:'A magazine as a way of looking at cinema',
+        title:'The diploma that became a magazine',
         name:'Anastasia Shabunaeva',
         role:'graduate of Communication Design at HSE University in St. Petersburg, founder of the VID almanac',
         hero:'On how a graduation project became an independent magazine of visual research into cinema, what maximalism costs, and why paper can’t be deleted.',
