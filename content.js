@@ -294,6 +294,61 @@ window.VSP_CONTENT = {
           {id:'iv-shabunaeva-2', src:'assets/vid-p2.jpg'},
           {id:'iv-shabunaeva-3', src:'assets/vid-p3.jpg'},
         ],
+      },
+      egupova: {
+        id:'egupova', slot:'iv-egupova', src:'assets/eg-hero.jpg', tag:'СТИЛЬ', date:'19 сентября 2026',
+        title:'«Если ваш стиль нравится всем, то у вас нет личного стиля»',
+        name:'Алина Егупова',
+        role:'стилистка из Гродно',
+        hero:'О том, зачем нужен стилист, почему три года ушло на синдром самозванца и как одежда работает первым фильтром между людьми.',
+        intro:[
+          'Алина Егупова — стилистка из Гродно. Она помогает людям находить собственный визуальный язык, опираясь не на универсальные правила, а на их характер, опыт и образ жизни.',
+          'Три года Алина не решалась назвать себя стилисткой: пугала «снобская» фэшен-среда. За первый год работы она провела 35 клиентов и убедилась, что работать было легче, чем страдать. В интервью — о том, зачем вообще нужен стилист, почему база плюс база даёт базу и что делать, если ваш стиль нравится всем.',
+        ],
+        quotes:[
+          'Если ваш стиль нравится всем, то у вас нет личного стиля.',
+          'Получается, работала я меньше, чем страдала.',
+          'Если сложить базу плюс базу, получится база.',
+        ],
+        qa:[
+          {q:'— Как ты поняла, какой хочешь себя показывать?',
+           a:'— Я только недавно поняла, как хочу себя показывать. Где-то год пыталась вести блог и быть хорошей: говорить то, что всем понравится. Думала, что моё настоящее мнение людям не зайдёт, поэтому выдавала что-то среднее. А потом ради прикола сняла видео, которое впервые понравилось мне самой. Раньше выложила ролик — и всё, даже смотреть не хочу, потому что это не я. А тут сама пересматривала. Видео зашло лучше, люди начали приходить. Я такая: о, значит, правда нужно быть собой. Только самого себя из себя достать оказалось очень сложно.',
+           spread:[
+             {cols:'1fr', imgs:[{src:'assets/eg-s1.jpg', cap:'Разворот о героине: «Алина Егупова — стилистка из Гродно»'}]},
+           ]},
+          {q:'— А сколько ты уже работаешь стилистом?',
+           a:'— Активно — с 2025 года. До этого три года сидела в синдроме самозванца: училась, но боялась называть себя стилистом. Меня пугала эта снобская сфера фэшена. Я думала: «Нет, я не такая, не хочу быть пафосной стилисткой». И в этом «я не такая» просидела три года. Чтобы хотя бы немного быть ближе к одежде, я пошла работать продавцом в пространство локальных брендов. Девушка, с которой мы тогда работали, постоянно говорила: «Алина, тебе здесь не место. Тебе нужно идти в стилисты. Что ты вообще тут делаешь?» А я отвечала: «Я знаю, но я не могу». Потом думаю: Алина, а что поменялось? Ничего. Если сейчас не начнёшь пробовать и заявлять о себе, ничего не изменится. За первый год я поработала с 35 клиентами. Получается, работала я меньше, чем страдала.',
+           spread:[
+             {cols:'1fr 1fr', imgs:[
+               {src:'assets/eg-s2.jpg', cap:'Разворот «Зачем нужен стилист» и «Поиск себя»'},
+               {src:'assets/eg-s3.jpg', cap:'Разворот «Если не сейчас, то когда?»'},
+             ]},
+           ]},
+          {q:'— Но по образованию ты вообще не стилист?',
+           a:'— Нет, я преподаватель иностранных языков. Когда заканчивала университет, точно понимала, что в школу не пойду, но вообще не знала, чем заниматься. Я пробовала разное, чуть ли не в криптовалюту собиралась уйти. Везде было ощущение: не то, не моё. А мода всё это время оставалась моей такой guilty pleasure. Я разрешила её себе только в 24 года. Сидела и думала: «Нет, мне туда нельзя, меня не примут, мне там не место». А потом поняла, что стиль — это не только мода. Это твоя жизнь, то, как ты себя ведёшь, что выбираешь и как себя ощущаешь. И если я, простая девчонка, зайду в эту пафосную сферу и с широкой ноги открою дверь, может быть, я как раз покажу людям, что она не настолько закрытая и страшная.'},
+          {q:'— Кайф. А как у тебя появился первый настоящий клиент?',
+           a:'— Всё началось с того, что подруга собиралась в Дубай и попросила помочь ей с чемоданом. Мы начали собирать образы, это немного превратилось в разбор гардероба, а я ради прикола сняла всё в сторис. На эту сторис ответила та самая девушка, с которой мы раньше работали. Она написала: «Алина, я ждала этого момента. Всё, приходи. Сколько платить?» Не попросила по дружбе, а сразу спросила про деньги. Потом я поработала почти со всеми её подругами.',
+           spread:[
+             {cols:'1fr', imgs:[{src:'assets/eg-s4.jpg', cap:'Разворот «Первый шаг» и «Не про одежду // Запреты»'}]},
+           ]},
+          {q:'— А что ты сделала с её гардеробом?',
+           a:'— Смотри, расскажу на примере. Ты любишь розовый и на эмоциях покупаешь себе уже десятый лонгслив, которые вообще не помогают в развитии и отражении твоего стиля. Условно, я ей объяснила: тебе не нужны десять лонгсливов, достаточно одного. А розовой может быть, например, сумка. Люди не всегда понимают, что сумка не обязана быть чёрной и подходить под всё. Если ты любишь розовый, почему она не может быть розовой? И иногда человеку даже не нужны новые образы. Ему нужна информация или кто-то со стороны, кто разрешит носить то, что уже давно сидит у него в голове, но он сам себе это запрещает.'},
+          {q:'— Как ты понимаешь, какой стиль на самом деле нужен человеку?',
+           a:'— Когда мне пишут: «Хочу минималистичный гардероб», я не могу работать только с этими словами. Что для тебя значит «чувствовать себя собой»? Может, ты хочешь получать больше комплиментов от подруг, понравиться партнёру или чувствовать себя увереннее. Мне нужно понять, зачем человек вообще пришёл к стилисту. Я начинаю с детства: где он рос, какие мультики смотрел, кто был любимым героем, как одевалась мама. Потом человек собирает мудборд — от интерьеров, фильмов и архитектуры до конкретных образов. Я смотрю на него целиком, выписываю пять ощущений, а затем разбираю цвета, силуэты и материалы. Так появляются визуальные якоря и стилевая опора.',
+           spread:[
+             {cols:'1fr', imgs:[{src:'assets/eg-s5.jpg', cap:'Разворот «С чего всё начинается»'}]},
+           ]},
+          {q:'— То есть ты не пытаешься полностью переодеть человека?',
+           a:'— Нет. Если резко всё поменять, человек испугается, устанет и вернётся обратно. Реальный результат работы со стилистом можно увидеть примерно через год. Одно дело, когда я сказала, что купить, и другое — когда человек сам это нашёл, осознанно выбрал и носит так, как ему нравится. Мне нравится, что моя первая клиентка сейчас вообще ко мне не обращается. Она сама всё понимает, сама себе всё разрешила и продолжает развивать свой стиль. Значит, я дала ей фундамент, а не просто список покупок. Я здесь скорее наставник.'},
+          {q:'— Что тебя раздражает в современных гардеробах?',
+           a:'— Люди хотят быть заметными, но покупают всё базовое: базовую сумку, базовые туфли-лодочки, базовые джинсы. А потом не понимают, где яркость. Но если сложить базу плюс базу, получится база. Мне кажется, это во многом связано с дефицитным мышлением наших мам и бабушек. Нас учили покупать вещи надолго, чтобы всё ко всему подходило. Раньше в одних сапогах могли ходить пять лет, поэтому они должны были быть максимально универсальными. А сейчас девчонки продолжают по этой же логике собирать весь гардероб. Конечно, база нужна, это связующие элементы. Просто не надо превращать в неё абсолютно всё. Если весь гардероб нейтральный, сумка с заклёпками подойдёт практически ко всему, а не «непонятно к чему».'},
+          {q:'— Какое модное правило ты бы отменила?',
+           a:'— Я вообще не люблю универсальные модные правила. То, что работает на одном, на другом не сработает. Нужно смотреть на фигуру, характер и образ жизни человека. Кому-то я скажу не покупать чёрную сумку-багет, а у другого настолько лаконичный и сдержанный стиль и образ жизни, что ему она действительно нужна. Не буду же я насильно предлагать ему сумасшедшую фиолетовую с накладными карманами и обвесом. Но одно правило я бы всё-таки оставила: если ваш стиль нравится всем, то у вас нет личного стиля.'},
+          {q:'— Браво. Кажется, мы только что придумали заголовок. Что ты хочешь изменить своей работой?',
+           a:'— Я хочу, чтобы люди перестали одеждой пускать пыль в глаза и пытаться казаться теми, кем не являются. Моду можно использовать как источник вдохновения, но не нужно ставить её на пьедестал. Хочется, чтобы человек чувствовал себя красивым даже в любимых джинсах или старых трениках. Чтобы он не просто повторял за кем-то, а понимал, почему носит именно так. Пусть наденет эти старые треники по-своему — главное, чтобы внутри было чёткое понимание, почему так. Фальшь всё равно считывается. Лучше сразу показать, какая ты. Пусть кто-то посмотрит и подумает: «Нет, к ней я точно не подойду». Зато к тебе придут люди, которые тоже могут надеть штаны задом наперёд и чувствовать себя отлично. Одежда — прекрасный первый фильтр: сразу видно, вайбите вы или нет. Если внешнее совпадает с внутренним, рядом оказываются твои люди. Это как в школе: ты просто накрутила волосы и пришла в новой блузке, а все сразу спрашивают: «Ты чего такая красивая? У тебя сегодня день рождения?» Хотя никакого праздника нет. Но ты немного изменила себя — и обычный день уже стал особенным.'},
+        ],
+        outro:'Стиль в понимании Алины — не список покупок и не свод правил, а способ совпасть с собой. И лучший результат её работы — когда клиент перестаёт к ней приходить.',
+        interviewerName:'Аревик Емишян', interviewerTg:'https://t.me/arevikemishyan', interviewerHandle:'@arevikemishyan',
       }
     },
     en: {
@@ -431,6 +486,61 @@ window.VSP_CONTENT = {
           {id:'iv-shabunaeva-2', src:'assets/vid-p2.jpg'},
           {id:'iv-shabunaeva-3', src:'assets/vid-p3.jpg'},
         ],
+      },
+      egupova: {
+        id:'egupova', slot:'iv-egupova', src:'assets/eg-hero.jpg', tag:'STYLE', date:'September 19, 2026',
+        title:'“If everyone likes your style, you don’t have a personal style”',
+        name:'Alina Yegupova',
+        role:'stylist from Grodno',
+        hero:'On what a stylist is actually for, why three years went into impostor syndrome, and how clothes work as the first filter between people.',
+        intro:[
+          'Alina Yegupova is a stylist from Grodno. She helps people find their own visual language, drawing not on universal rules but on their character, experience and way of life.',
+          'For three years Alina couldn’t bring herself to call herself a stylist: the “snobbish” fashion world put her off. In her first year of work she took on 35 clients and became convinced that working was easier than suffering. In this interview — on what a stylist is actually for, why basics plus basics equals basics, and what to do if everyone likes your style.',
+        ],
+        quotes:[
+          'If everyone likes your style, you don’t have a personal style.',
+          'So it turns out I worked less than I suffered.',
+          'Add basics to basics and what you get is basics.',
+        ],
+        qa:[
+          {q:'— How did you work out how you want to present yourself?',
+           a:'— I only recently worked out how I want to present myself. For about a year I tried to run a blog and be nice: to say what everyone would like. I thought people wouldn’t go for my real opinion, so I put out something middling. And then, for a laugh, I shot a video that for the first time I liked myself. Before, I’d post a clip and that was it — I didn’t even want to watch it, because it wasn’t me. But this one I rewatched myself. The video did better, people started coming. And I thought: oh, so you really do have to be yourself. It’s just that getting yourself out of yourself turned out to be very hard.',
+           spread:[
+             {cols:'1fr', imgs:[{src:'assets/eg-s1.jpg', cap:'The spread introducing Alina: “a stylist from Grodno”'}]},
+           ]},
+          {q:'— And how long have you been working as a stylist?',
+           a:'— Actively — since 2025. Before that I spent three years in impostor syndrome: I was studying, but I was afraid to call myself a stylist. That snobbish fashion world scared me. I thought: “No, I’m not like that, I don’t want to be a pretentious stylist.” And I sat in that “I’m not like that” for three years. To at least be a bit closer to clothes, I took a job as a shop assistant in a space for local brands. The woman I worked with then kept saying: “Alina, you don’t belong here. You need to go into styling. What are you even doing here?” And I’d answer: “I know, but I can’t.” Then I thought: Alina, what has changed? Nothing. If you don’t start trying and putting yourself out there now, nothing will change. In the first year I worked with 35 clients. So it turns out I worked less than I suffered.',
+           spread:[
+             {cols:'1fr 1fr', imgs:[
+               {src:'assets/eg-s2.jpg', cap:'The spread “Why you need a stylist” and “Finding yourself”'},
+               {src:'assets/eg-s3.jpg', cap:'The spread “If not now, then when?”'},
+             ]},
+           ]},
+          {q:'— But your degree isn’t in styling at all?',
+           a:'— No, I’m a foreign language teacher. When I was finishing university I knew for certain I wouldn’t go into a school, but I had no idea at all what to do. I tried different things, I was nearly about to go off into cryptocurrency. Everywhere there was the same feeling: not this, not mine. And all that time fashion remained my guilty pleasure. I only allowed myself it at 24. I’d sit and think: “No, I’m not allowed in there, they won’t accept me, I don’t belong.” And then I understood that style isn’t only fashion. It’s your life, the way you carry yourself, what you choose and how you feel. And if I, an ordinary girl, walk into this pretentious field and kick the door wide open, maybe I’ll show people that it isn’t so closed off and frightening after all.'},
+          {q:'— Love it. And how did your first real client come about?',
+           a:'— It all started when a friend was going to Dubai and asked me to help her pack. We started putting looks together, it turned a bit into a wardrobe audit, and for a laugh I filmed the whole thing for stories. That very woman I used to work with replied to those stories. She wrote: “Alina, I’ve been waiting for this moment. That’s it, come over. How much do I pay?” She didn’t ask as a favour, she asked about money straight away. After that I worked with nearly all of her friends.',
+           spread:[
+             {cols:'1fr', imgs:[{src:'assets/eg-s4.jpg', cap:'The spread “The first step” and “Not about clothes // Taboos”'}]},
+           ]},
+          {q:'— And what did you do with her wardrobe?',
+           a:'— Look, let me explain with an example. You love pink and on impulse you buy yourself a tenth long-sleeve top, and they do nothing at all to develop or express your style. Roughly speaking, I explained to her: you don’t need ten long-sleeves, one is enough. And the pink thing could be, say, a bag. People don’t always realise that a bag doesn’t have to be black and go with everything. If you love pink, why can’t it be pink? And sometimes a person doesn’t even need new looks. They need information, or someone from outside who’ll give them permission to wear what has been sitting in their head for ages but they forbid themselves.'},
+          {q:'— How do you work out what style a person actually needs?',
+           a:'— When someone writes to me: “I want a minimalist wardrobe”, I can’t work with those words alone. What does “feeling like yourself” mean to you? Maybe you want more compliments from your friends, to appeal to your partner, or to feel more confident. I need to understand why the person came to a stylist in the first place. I start with childhood: where they grew up, what cartoons they watched, who their favourite character was, how their mother dressed. Then the person puts together a moodboard — from interiors, films and architecture through to specific looks. I look at it as a whole, write out five sensations, and then break them down into colours, silhouettes and materials. That’s how visual anchors and a foundation of style appear.',
+           spread:[
+             {cols:'1fr', imgs:[{src:'assets/eg-s5.jpg', cap:'The spread “Where it all begins”'}]},
+           ]},
+          {q:'— So you don’t try to dress a person completely differently?',
+           a:'— No. If you change everything abruptly, the person gets frightened, worn out, and goes back. The real result of working with a stylist can be seen after about a year. It’s one thing when I said what to buy, and another when the person found it themselves, chose it consciously and wears it the way they like. I like the fact that my first client doesn’t come to me at all now. She understands everything herself, she has given herself permission for everything and she keeps developing her style. Which means I gave her a foundation, not just a shopping list. I’m more of a mentor here.'},
+          {q:'— What irritates you about wardrobes today?',
+           a:'— People want to be noticed, but they buy everything basic: a basic bag, basic court shoes, basic jeans. And then they don’t understand where the brightness is. But add basics to basics and what you get is basics. I think it has a lot to do with the scarcity thinking of our mothers and grandmothers. We were taught to buy things to last, so that everything goes with everything. People used to wear the same boots for five years, so they had to be as universal as possible. And now girls carry on assembling an entire wardrobe by that same logic. Of course you need basics, they’re the connecting elements. You just shouldn’t turn absolutely everything into them. If the whole wardrobe is neutral, a studded bag will go with practically anything, rather than “with who knows what”.'},
+          {q:'— Which fashion rule would you abolish?',
+           a:'— I don’t like universal fashion rules at all. What works on one person won’t work on another. You have to look at the person’s figure, character and way of life. To one person I’ll say don’t buy a black baguette bag, and another has such a spare, restrained style and way of life that they genuinely need it. I’m hardly going to force some insane purple one with patch pockets and hardware on them. But there’s one rule I would keep: if everyone likes your style, you don’t have a personal style.'},
+          {q:'— Bravo. I think we’ve just come up with the headline. What do you want to change through your work?',
+           a:'— I want people to stop using clothes to throw dust in others’ eyes and to try to seem like someone they aren’t. Fashion can be used as a source of inspiration, but there’s no need to put it on a pedestal. I want a person to feel beautiful even in their favourite jeans or old tracksuit bottoms. For them not just to copy someone but to understand why they wear it that way. Let them put those old tracksuit bottoms on in their own way — what matters is a clear understanding inside of why it’s like that. Falseness reads anyway. Better to show straight away what you’re like. Let someone look and think: “No, I’m definitely not going up to her.” But then the people who come to you are the ones who can also put their trousers on backwards and feel great. Clothes are a wonderful first filter: you can see immediately whether you’re on the same wavelength. If the outside matches the inside, your people end up next to you. It’s like at school: you’ve just curled your hair and turned up in a new blouse, and everyone immediately asks: “Why do you look so nice? Is it your birthday?” Even though there’s no occasion at all. But you changed yourself a little — and an ordinary day has already become a special one.'},
+        ],
+        outro:'Style, as Alina understands it, is neither a shopping list nor a set of rules but a way of matching yourself. And the best result of her work is when a client stops coming back.',
+        interviewerName:'Arevik Yemishyan', interviewerTg:'https://t.me/arevikemishyan', interviewerHandle:'@arevikemishyan',
       }
     }
   }

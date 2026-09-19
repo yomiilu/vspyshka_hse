@@ -285,10 +285,12 @@ a:hover{color:#E8461E}
             <div style="font-weight:600;font-size:19px;line-height:1.25">{{ cur.name }}</div>
           </div>
           <div style="font-size:14px;line-height:1.55;color:#6a5a52">{{ cur.role }}</div>
+          <sc-if value="{{ cur.heroTg }}" hint-placeholder-val="{{ true }}">
           <a href="{{ cur.heroTg }}" target="_blank" style="display:inline-flex;align-items:center;gap:8px;font-size:13px;padding:9px 16px;border:1px solid #ED179A;border-radius:999px;color:#ED179A" style-hover="background:#ED179A;color:#fff">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M21.94 4.5 18.9 19.2c-.23 1.02-.84 1.27-1.7.79l-4.7-3.46-2.27 2.18c-.25.25-.46.46-.94.46l.33-4.78 8.7-7.86c.38-.34-.08-.53-.59-.19L6.98 13.2l-4.63-1.45c-1.01-.31-1.02-1.01.21-1.5l18.1-6.98c.84-.31 1.58.2 1.28 1.23Z"></path></svg>
             {{ cur.tgLabel }}
           </a>
+          </sc-if>
         </div>
         <sc-for list="{{ cur.intro }}" as="p" hint-placeholder-count="2">
           <p style="font-size:19px;line-height:1.8;color:#332721;margin-bottom:22px">{{ p }}</p>
@@ -367,6 +369,7 @@ a:hover{color:#E8461E}
     </div>
 
     <!-- gallery -->
+    <sc-if value="{{ cur.gallery }}" hint-placeholder-val="{{ true }}">
     <section style="padding:30px 40px 10px">
       <div class="mg" style="max-width:1040px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:20px">
         <sc-for list="{{ cur.gallery }}" as="g" hint-placeholder-count="2">
@@ -374,6 +377,7 @@ a:hover{color:#E8461E}
         </sc-for>
       </div>
     </section>
+    </sc-if>
 
     <!-- controls + our post -->
     <section style="padding:20px 40px 120px">
